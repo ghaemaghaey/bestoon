@@ -62,6 +62,10 @@ The project contains two different clients (command line and an ionic app for an
 - [Bestoon php client](https://github.com/iamalirezaj/bestoon-php-client)
 
 
+## py3 version is out now 
+
+check the py3bestoon directory for more information
+
 
 ## TODO
 - [x] a restful login service. user will give user pass and will get her token
